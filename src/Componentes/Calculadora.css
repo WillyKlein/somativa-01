@@ -1,0 +1,46 @@
+button{
+    width: 3em;
+    height: 3em;
+    font-size: 1.5em;
+    border: none;
+    border-radius: 0em;
+    margin: 0.1mm;
+
+}
+
+button:hover{
+    cursor: pointer;
+}
+
+.wrapper{
+    background-color: rgb(99, 100, 99);
+    border-radius: 0em;
+    padding: 0em;
+
+    width: 291px;
+}
+.orange{
+    background-color: rgb(250, 129, 48);
+    color: white
+}
+
+.escondido{
+    background-color: rgb(239, 239, 239);
+    color: rgb(239, 239, 239);
+}
+
+.resultado{
+    color: white;
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 0.3em;
+    font-size: 3em;
+}
+
+.acmaior{
+    width: 217.5px
+}
+
+.zeromaior{
+    width: 144.7px
+}
